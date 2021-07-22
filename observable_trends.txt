@@ -1,0 +1,5 @@
+Heroes of Pymoli Observable Trends
+
+1. As demonstrated by the gender_df output, the player base of the game is largely male.
+2. As demonstrated by the age_demo_df output, over half of players are between the ages of 15 and 24. This may be explained by excess free time or increased interest in video games during adolescene/early 20s.
+3. As demonstrated by the age_analysis_df output, players between the ages of 15 and 29 make the bulk of purchases and the most popular item to purchase is 'Final Critic.'
